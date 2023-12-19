@@ -1,0 +1,4 @@
+Links =  //div[@class="V_Title"]/a/@href
+Títulos = //h1//text()
+resumen = //div[@class="lead"]/p/text()
+cuerpo = //div[@class="html-content"]/p/text()

@@ -1,0 +1,36 @@
+                        China entra en la carrera del ChatGPT, empresas como Baidu anuncian competencia                    
+
+La compañía está dando los primeros pasos, con planes para lanzar en los próximos meses un chatbot llamado Ernie en su motor de búsqueda, similar al Bing Chat de Microsoft y al de OpenAI
+
+s, como 
+, promocionando proyectos con los que esperan lograr la misma expectación creada por el lanzamiento de ChatGPT.
+, los grandes grupos presentan ahora con optimismo 
+.
+Zhou Hongyi, responsable de la empresa de seguridad en Internet Qihoo 360,
+ a preguntas planteadas por humanos, es el comienzo de la revolución de la inteligencia artificial. "Tiene carencias, pero también un potencial ilimitado", aseguró la semana pasada.
+La carrera por alcanzar a ChatGPT llega en un momento en que
+ provocada por la pandemia.
+, similar al Bing Chat de Microsoft y al de OpenAI.
+El modelo de IA subyacente al bot ha estado en desarrollo desde 2019. Su última generación, con 260.000 millones de parámetros,
+, aunque opera en un conjunto de datos muy inferior.
+Baidu 
+, incluidos la búsqueda, los vehículos eléctricos y los asistentes inteligentes.
+La noticia del posible lanzamiento del bot Ernie a partir de marzo 
+, mientras que Alibaba y NetEase se vieron impulsadas por los avances en sus investigaciones sobre IA.
+Las acciones de grupos de IA más pequeños, como 
+. Este mes, los medios de comunicación estatales lanzaron una advertencia sobre el boom especulativo.
+Según el proveedor de datos Tianyancha, desde diciembre, más de una docena de empresas se han apresurado a registrar la marca "ChatGPT" u otras palabras que contengan "GPT" para su uso en todo tipo de sectores, desde instrumentos científicos hasta ropa y ventas publicitarias.
+, mientras que la universidad Fudan de Shanghai ha reunido a más de una docena de ejecutivos de empresas de IA y académicos para analizar el desarrollo, los riesgos de seguridad y los usos de ChatGPT.
+Sin embargo, analistas y expertos afirman que el aumento de las cotizaciones bursátiles en torno a cada nuevo anuncio no reflejan lo difícil que será para los grupos chinos 
+.
+Baidu tuvo problemas con su anterior intento de chatbot, conocido como Plato, que, según los analistas, ni siquiera podía responder a una pregunta sencilla como: "¿Cuándo es el cumpleaños del cofundador de Alibaba, Jack Ma?".
+ y en otros conjuntos de datos como un obstáculo para el entrenamiento del software de IA.
+GPT, el programa en el que se basa ChatGPT, 
+. Por su parte, Ernie, de Baidu, se ha entrenado principalmente con datos en chino y en inglés de Wikipedia y Reddit.
+Los costos informáticos de entrenar y ejecutar grandes modelos lingüísticos son también muy elevados. 
+. Un ejecutivo de una empresa china líder en IA, que pidió mantenerse en el anonimato, señaló que planeaba centrar sus esfuerzos en sectores verticales específicos, como el servicio de atención al cliente, en lugar de apostar por un chatbot conversacional más amplio.
+. La normativa estadounidense impide que procesadores como el A100 de Nvidia se exporten a China, lo que encarece y retrasa el entrenamiento de los modelos de IA.
+Los analistas de Bernstein calculan que es probable que los grupos chinos
+, pero señalan que el límite impuesto por Washington significa que las empresas chinas de IA se quedarán rezagadas a medida que avance el hardware.
+"Será difícil que las empresas chinas sean competitivas a nivel mundial", afirma Van, de Bernstein.
+"Hay muchas empresas que están haciendo anuncios ahora sobre rivales de ChatGPT, pero eso no significa que tengan un producto. Es difícil juzgarlos hasta que podamos probarlos", concluyó.
